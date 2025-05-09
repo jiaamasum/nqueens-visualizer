@@ -61,13 +61,16 @@ python n_queens_visualizer.py
 
 <div align="center">
 
-### Quick Demo (YouTube Short)
+<!-- YouTube Video Embed -->
+<a href="https://youtube.com/shorts/HWeyOSQYgbg">
+  <img src="https://img.youtube.com/vi/HWeyOSQYgbg/maxresdefault.jpg" alt="N-Queens Visualizer Demo" width="600"/>
+</a>
+
+*Click the image above to watch the demo on YouTube*
+
+### Additional Demo Options
 [![Watch on YouTube](https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/HWeyOSQYgbg)
-
-### Full Demo Video
 [![Watch Full Demo](https://img.shields.io/badge/Watch-Full_Demo-red?style=for-the-badge&logo=github)](https://github.com/jiaamasum/nqueens-visualizer/raw/main/%E2%99%9B%20N-Queens%20Visualizer%20-%20Chess%20Style%20%E2%99%9B.mp4)
-
-*Click on either badge to watch the demo videos*
 
 </div>
 
