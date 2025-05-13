@@ -5,7 +5,7 @@
 [![Tkinter](https://img.shields.io/badge/GUI-Tkinter-orange.svg)](https://docs.python.org/3/library/tkinter.html)
 
 <div align="center">
-  <img src="demo2.jpg" alt="N-Queens Visualizer Banner" width="800"/>
+  <img src="asstes/demo2.jpg" alt="N-Queens Visualizer Banner" width="800"/>
   
   *A beautiful, interactive visualization of the N-Queens problem solution using backtracking*
 </div>
